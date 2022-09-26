@@ -1,5 +1,5 @@
 // using the gap algorithm
-// TC - O(nLogn) SC - O(1)
+// TC - O(nLogn)+O(N) SC - O(1)
 #include <iostream>
 #include <vector>
 #include <algorithm>
